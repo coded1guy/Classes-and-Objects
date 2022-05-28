@@ -1,8 +1,4 @@
 class Student:
-    name = ""
-    age = ""
-    tracks = ""
-    score = ""
     def __init__(self, name, age, tracks, score):
         self.name = name
         self.age = age
